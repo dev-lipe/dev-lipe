@@ -2,7 +2,7 @@
 
 - 🧑‍💼 Atualmente trabalho como acessor de vendas.
 - 👨‍🎓 cursando Análise e Desenvolvimento de Sistemas.
-- 🖥️ Estou a procura de um estágio em programação.
+- 🖥️ Estou procurando um estágio em programação.
 
 ##
 
