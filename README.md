@@ -1,8 +1,8 @@
 ## Olá, Me chamo Felipe França
 
-- 🔭 Atualmente trabalho como acessor de vendas
-- 👨‍🎓 Estou cursando análise e desenvolvimento de sistemas.
-- 🤔 Estou a procura de um estágio em programação
+- 🧑‍💼 Atualmente trabalho como acessor de vendas.
+- 👨‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas.
+- 🖥️ Estou a procura de um estágio em programação.
 
 ##
 
