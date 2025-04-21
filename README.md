@@ -6,7 +6,7 @@
 
 ##
 
-Estudando JavaScript ,CSS e HTML
+JavaScript ,CSS e HTML
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Lipe-js" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />          
