@@ -5,8 +5,7 @@
 - 🖥️ Estou procurando um estágio em programação.
 
 ##
-
-JavaScript ,CSS e HTML
+Iniciando estudos com C/C++, pyton, JavaScript ,CSS e HTML
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Lipe-js" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />          
